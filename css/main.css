@@ -9,7 +9,8 @@ a
 }
 div {
     border: 2px blue solid;
-    padding: 30px 30px 30px 30px;
+    padding: 10px;
+    margin: 10px;
 }
 body {
     background: #131313;
